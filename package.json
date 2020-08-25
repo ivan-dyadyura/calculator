@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Калькулятор на JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-dyadyura/calculator.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Ivan Dyadyura (https://lvan-dyadyura.ru/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-dyadyura/calculator/issues"
+  },
+  "homepage": "https://github.com/ivan-dyadyura/calculator#readme"
+}
